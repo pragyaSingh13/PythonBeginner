@@ -1,1 +1,2 @@
-Demo.disp()
+  def printName(self):
+        print("Hello")
