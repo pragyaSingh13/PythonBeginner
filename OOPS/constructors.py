@@ -8,6 +8,7 @@ class demo:
     def display(self):
         print("FirstName ",str(self.firstname))
         print("LastName ",str(self.lastname))
+        print("Full Name: ", self.firstname +" "+ self.lastname)
 
 obj = demo("Pragya"," Singh")
 
