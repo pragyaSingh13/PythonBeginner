@@ -1,2 +1,2 @@
 # PythonBeginner
-Beginner Friendly Programs for python for practice
+Beginner Friendly Python Programs for Practice
