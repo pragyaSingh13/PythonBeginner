@@ -3,3 +3,18 @@ sdfkjbsd
 afksdbf
 df'dzbf
 a'sfdbdsf
+python -u "c:\Users\welcome\Desktop\python workshop\File Handling\readData.py"
+liwehf
+python -u "c:\Users\welcome\Desktop\python workshop\File Handling\readData.py"
+python -u "c:\Users\welcome\Desktop\python workshop\File Handling\readData.py"
+python -u "c:\Users\welcome\Desktop\python workshop\File Handling\readData.py"
+python -u "c:\Users\welcome\Desktop\python workshop\File Handling\readData.py"
+python -u "c:\Users\welcome\Desktop\python workshop\File Handling\readData.py"
+python -u "c:\Users\welcome\Desktop\python workshop\File Handling\readData.py"
+python -u "c:\Users\welcome\Desktop\python workshop\File Handling\readData.py"
+python -u "c:\Users\welcome\Desktop\python workshop\File Handling\readData.py"
+python -u "c:\Users\welcome\Desktop\python workshop\File Handling\readData.py"
+python -u "c:\Users\welcome\Desktop\python workshop\File Handling\readData.py"
+python -u "c:\Users\welcome\Desktop\python workshop\File Handling\readData.py"
+cls
+python -u "c:\Users\welcome\Desktop\python workshop\File Handling\readData.py"
