@@ -5,12 +5,15 @@ class TV(ABC):
     @abstractmethod
     def jadu(self):
         pass
+    @abstractmethod
     def abc(self):
-        print("Welcome")
+       pass
 
 class Samsung(TV):
-    def jadu(self):
+    def abc(self):
         print("This is jadu")
+    def jadu(self):
+        print("This is another jadu")
 
 obj2 = Samsung()
 print(obj2.name)
